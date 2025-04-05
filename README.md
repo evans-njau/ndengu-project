@@ -71,6 +71,65 @@ Accessible only to admins:
 
 ---
 
+Ndengu/
+├── Controllers/
+
+│   ├── Email.php
+
+│   ├── login.php
+
+│   ├── Dashboard.php
+
+│   ├── Meetings.php
+
+│   ├── Burials.php
+
+│   └── process-register.php
+
+│
+
+├── Models/
+
+│   └── Database/
+
+│       └── Connection.php
+
+│
+
+├── Views/
+
+│   ├── Dashboard/
+
+│   ├── Forms/
+
+│   ├── Landing-page/
+
+│   ├── Payments/
+
+│   ├── reset.php
+
+│   └── create-new-password.php
+
+│
+├── JS/
+
+│   ├── tracker.js
+
+│
+
+├── Reset_Validation.php
+
+├── composer.json
+
+├── composer.lock
+
+└── vendor/
+
+    └── (Composer dependencies including PHPMailer)
+
+
+---
+
 ## 🔧 Technologies Used
 
 - **PHP**
