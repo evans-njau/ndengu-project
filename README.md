@@ -71,8 +71,9 @@ Accessible only to admins:
 
 ---
 ## 📁 File Structure
-Ndengu/public/
-├── Controllers/
+Ndengu/
+|-public/
+  ├── Controllers/
 
 │   ├── Email.php
 
