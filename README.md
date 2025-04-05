@@ -39,10 +39,10 @@ Accessible only to admins:
 
 ### 1. 🔐 **Registration**
 - Fee → 300 KES
-- Fields: First Name, Last Name, Mobile Number, Password
+- Fields: First Name, Email, Mobile Number, Password
 
 ### 2. 🔑 **Login**
-- Fields: Phone, Password
+- Fields: Email, Password
 
 ### 3. 🎯 **Purpose**
 - Burial support and coordination
