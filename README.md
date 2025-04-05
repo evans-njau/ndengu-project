@@ -154,5 +154,5 @@ Ndengu/
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/ndengu-project.git
+git clone https://github.com/evans-njau/ndengu-project.git
 cd ndengu-project
