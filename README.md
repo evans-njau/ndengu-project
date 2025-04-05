@@ -1,4 +1,4 @@
-# 🫘 Ndengu Project - Burial & Support Web App
+# 🧿 Ndengu Project - Burial & Support Web App
 
 Ndengu Project is a community-based web application designed to help members contribute towards funeral support, manage meeting logistics, and coordinate burial events in a transparent and efficient way.
 
